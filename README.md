@@ -109,7 +109,7 @@ def cal():
 
  
 
-# Square root function.
+
 
 def sqr():
 
@@ -153,7 +153,7 @@ def sqr():
 
  
 
-# Vector length.
+
 
 def length_vector():
 
@@ -173,7 +173,6 @@ def length_vector():
 
  
 
-# if funkction.
 
 def t_if():
 
